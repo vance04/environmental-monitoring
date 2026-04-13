@@ -4,5 +4,6 @@ An environmental monitoring system based on STM32F103C8T6
 (2)学习所需元器件的实现代码以及基本的实现结果。如：OLED上面显示的中文以及数字的位置、PWM驱动舵机、OLED界面二级目录切换等。
 (3)将各个元器件功能代码结合起来，思考如何编写所需的功能代码。例如：如何修改最大最小温度阈值使蜂鸣器和RGB灯启动、实现在OLED屏幕通过矩阵键盘切换界面以及控制各个传感器开关启用等。
 <img width="596" height="587" alt="image" src="https://github.com/user-attachments/assets/16c8e6da-f8ac-463c-afc1-0bacdd4779d6" />
+<img width="1910" height="1076" alt="image" src="https://github.com/user-attachments/assets/503526c3-bf94-4e4b-a3bd-c597549f0ce8" />
 
-Objects文件夹太大没上传
+注：Objects文件夹太大没上传
